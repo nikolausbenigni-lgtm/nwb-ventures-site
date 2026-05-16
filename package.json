@@ -1,4 +1,7 @@
 {
+  "name": "nwb-ventures-site",
+  "version": "1.0.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -6,26 +9,24 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@tailwindcss/postcss": "latest",
-    "@vitejs/plugin-react": "latest",
-    "next": "latest",
-    "react": "latest",
-    "react-dom": "latest",
-    "framer-motion": "latest",
-    "lucide-react": "latest",
-    "class-variance-authority": "latest",
-    "clsx": "latest",
-    "tailwind-merge": "latest"
+    "next": "14.2.23",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "framer-motion": "11.18.2",
+    "lucide-react": "0.468.0",
+    "class-variance-authority": "0.7.1",
+    "clsx": "2.1.1",
+    "tailwind-merge": "2.5.5"
   },
   "devDependencies": {
-  "@types/react": "latest",
-  "@types/node": "latest",
-  "autoprefixer": "latest",
-  "postcss": "latest",
-  "tailwindcss": "latest",
-  "typescript": "latest",
-  "eslint": "latest",
-  "eslint-config-next": "latest"
-    
+    "@types/node": "20.17.10",
+    "@types/react": "18.3.18",
+    "@types/react-dom": "18.3.5",
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.49",
+    "tailwindcss": "3.4.17",
+    "typescript": "5.7.2",
+    "eslint": "8.57.1",
+    "eslint-config-next": "14.2.23"
   }
 }
