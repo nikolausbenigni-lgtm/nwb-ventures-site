@@ -18,12 +18,13 @@
     "tailwind-merge": "latest"
   },
   "devDependencies": {
-    "autoprefixer": "latest",
-    "postcss": "latest",
-    "tailwindcss": "latest",
-    "typescript": "latest",
-    "eslint": "latest",
-    "eslint-config-next": "latest"
-    "@types/react": "latest",
-"@types/node": "latest"  }
+  "@types/react": "latest",
+  "@types/node": "latest",
+  "autoprefixer": "latest",
+  "postcss": "latest",
+  "tailwindcss": "latest",
+  "typescript": "latest",
+  "eslint": "latest",
+  "eslint-config-next": "latest"
+  }
 }
