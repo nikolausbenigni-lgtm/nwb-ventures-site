@@ -39,7 +39,7 @@ export default function Page() {
       <header className="relative z-20 border-b border-white/10 bg-[#05080d]/70 backdrop-blur-xl">
         <div className="mx-auto flex max-w-7xl items-center justify-between px-6 py-5 lg:px-8">
           <a href="#home" className="flex items-center gap-3" aria-label="NWB Ventures home">
-            <img src="/logo.png" alt="NWB Ventures" className="h-24 w-auto object-contain" />
+            <img src="/logo.png" alt="NWB Ventures" className="h-48 w-auto object-contain" />
           </a>
 
           <nav className="hidden items-center gap-8 md:flex">
